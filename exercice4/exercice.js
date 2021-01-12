@@ -1,3 +1,3 @@
-$("selector").event(function(){
+$("*").keypress(function(){
     $(this).hide();
 });

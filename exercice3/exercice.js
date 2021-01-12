@@ -1,3 +1,3 @@
-$("selector").event(function(){
+$("*").mouseover(function(){
     $(this).hide();
 });
